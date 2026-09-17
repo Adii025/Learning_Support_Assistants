@@ -1,0 +1,2 @@
+-- Register users through the application so passwords are BCrypt-hashed.
+-- After registration, create Parent/LSA profile rows using the returned user id.
